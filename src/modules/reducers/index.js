@@ -1,0 +1,5 @@
+import bankInfoReducer from "./bankInfo";
+
+export default {
+  bankInfo: bankInfoReducer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+};

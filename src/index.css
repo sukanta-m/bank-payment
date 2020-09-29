@@ -1,0 +1,16 @@
+@import url('../src/assets/font/stylesheet.css');
+body {
+  margin: 0;
+  font-family: 'inter-regular' !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1 {
+  font-family: 'sofia_prosemi_bold';
+}
